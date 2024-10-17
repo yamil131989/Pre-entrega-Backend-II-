@@ -29,7 +29,9 @@ npm i bcrypt
 npm i passport-jwt
 
 ++++++++++++++++++++++++++++++++++++++++
+
 http://localhost:8080/register(funciona)
+
 http://localhost:8080/login(funciona)
 
 Pero al loguearse e ir a 
