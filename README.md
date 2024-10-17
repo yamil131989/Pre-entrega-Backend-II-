@@ -29,10 +29,11 @@ npm i bcrypt
 npm i passport-jwt
 
 ++++++++++++++++++++++++++++++++++++++++
-http://localhost:8080/register funciona
-http://localhost:8080/login funciona
+http://localhost:8080/register(funciona)
+http://localhost:8080/login(funciona)
 
-Pero al loguearse e ir a http://localhost:8080/api/sessions/current sale el problema con 
+Pero al loguearse e ir a 
+http://localhost:8080/api/sessions/current sale el problema con 
 
 {"error":"No auth token"}
 
